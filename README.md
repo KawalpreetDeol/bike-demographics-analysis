@@ -1,2 +1,2 @@
-# bike-demographics-analysis
-Analysis on a Bike Demographic Dataset in Excel.
+# Bike Sales Analysis
+Analysis on a Bike Sales Dataset in Excel.
